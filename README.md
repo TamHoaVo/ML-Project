@@ -8,8 +8,8 @@ Step 3: Change the data loader according to the datasets you want to run zero wi
 
 Example:
 train_df = pd.read_csv('train0.csv') # Load training and test files
-test_df = pd.read_csv('test0.csv')   # Load training and test files
 
+test_df = pd.read_csv('test0.csv')   # Load training and test files
 
 
 Step 4: Then run the code and the results should be output. 
